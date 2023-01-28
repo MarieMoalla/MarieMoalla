@@ -34,3 +34,4 @@
 
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mariemoalla&theme=tokyonight" alt="mariemoalla" /></p>
 
+![Snake animation](https://github.com/mariemoalla/github-readme/blob/output/github-contribution-snake.svg)
