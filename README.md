@@ -33,5 +33,3 @@
 <p><img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=mariemoalla&show_icons=true&locale=en&theme=tokyonight" alt="mariemoalla" /></p>
 
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mariemoalla&theme=tokyonight" alt="mariemoalla" /></p>
-
-![Snake animation](https://github.com/mariemoalla/github-readme/blob/output/github-contribution-snake.svg)
