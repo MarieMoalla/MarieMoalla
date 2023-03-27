@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariemoalla&label=Profile%20views&color=0e75b6&style=flat" alt="mariemoalla" /> </p>
 
-- 🌱 I’m currently learning about **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://waytolearn.org/mariem-moalla](https://waytolearn.org/mariem-moalla)
 
