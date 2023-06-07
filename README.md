@@ -4,7 +4,7 @@
 
 <img  align="right" alt="Coding-for-life" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariemoalla&label=Profile%20views&color=0e75b6&style=flat" alt="mariemoalla" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariemoalla&label=Profile%20views&color=0e75b6&style=flat" alt="mariemoalla" /> </p>-->
 
 - 🌱 I’m currently learning **Machine Learning**
 
