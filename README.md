@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapercave.com/uwp/uwp1321526.gif)](https://waytolearn.org/mariem-moalla)
 <h1 align="center">Hi 👋, I'm Mariem Moalla</h1>
-<h3 align="center">A Software Engineer Student</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <img  align="right" alt="Coding-for-life" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"/>
 
